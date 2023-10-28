@@ -491,10 +491,10 @@ padding-bottom: 120px;
 
 .footer-form {
         display: flex;
+        gap: 24px;
 }
 
 .footer-input {
-        gap: 24px;
         width: 264px;
         height: 40px;
         border: 1px solid #ffffff;
