@@ -637,6 +637,10 @@ padding-bottom: 120px;
 .another-modal-div-two {
         position: relative;
 }
+
+.input-one-modal {
+        width: 100%;
+}
       
       
 /* Koniec klas modal */
