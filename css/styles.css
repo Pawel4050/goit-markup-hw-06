@@ -489,6 +489,10 @@ padding-bottom: 120px;
         color: #ffffff;
 }
 
+.footer-form {
+        display: flex;
+}
+
 /* Koniec klas dla footer */
 
 
