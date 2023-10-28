@@ -633,6 +633,10 @@ padding-bottom: 120px;
         display: block;
         margin-bottom: 4px;
       }
+
+.another-modal-div-two {
+        position: relative;
+}
       
       
 /* Koniec klas modal */
