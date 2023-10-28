@@ -508,6 +508,11 @@ padding-bottom: 120px;
         color: #ffffff;
 }
 
+.footer-input::placeholder {
+        color: #ffffff; /* Kolor dla tekstu w atrybucie placeholder */
+      }
+      
+
 .button-footer-form {
         min-width: 165px;
         display: flex;
