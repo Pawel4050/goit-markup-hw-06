@@ -508,6 +508,10 @@ padding-bottom: 120px;
         color: #ffffff;
 }
 
+.button-footer-form {
+        min-width: 165px;
+}
+
 /* Koniec klas dla footer */
 
 
