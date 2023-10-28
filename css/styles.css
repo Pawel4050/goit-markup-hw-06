@@ -385,6 +385,18 @@ padding-bottom: 120px;
         fill: currentColor;
 }
 
+
+
+
+
+
+
+
+
+
+
+/* początek klas dla footer */
+
 .footer {
         background-color: var(--brand-color);
         padding: 100px 0;       
@@ -464,6 +476,27 @@ padding-bottom: 120px;
         fill: #f4f4fd;
 }
 
+.footer-form {
+
+}
+
+.footer-form-p {
+        margin-bottom: 16px;
+}
+
+/* Koniec klas dla footer */
+
+
+
+
+
+
+
+
+
+
+/* Początek klas dla modal */
+
 .modal-container {
         position: fixed;
         top: 0;
@@ -528,6 +561,16 @@ padding-bottom: 120px;
         fill: #ffffff;
       }
       
+/* Koniec klas modal */
+
+
+
+
+
+
+
+
+
 
 .section-portfolio {
         padding-top: 96px; padding-bottom: 120px;
