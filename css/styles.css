@@ -493,6 +493,10 @@ padding-bottom: 120px;
         display: flex;
 }
 
+.footer-input {
+        gap: 24px;
+}
+
 /* Koniec klas dla footer */
 
 
