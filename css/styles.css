@@ -615,6 +615,10 @@ padding-bottom: 120px;
 .button-modal:focus .svg-modal {
         fill: #ffffff;
       }
+
+.another-modal-div {
+        margin-bottom: 8px;
+}
       
 /* Koniec klas modal */
 
