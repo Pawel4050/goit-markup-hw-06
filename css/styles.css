@@ -712,6 +712,10 @@ padding-bottom: 120px;
         justify-content: center;
         fill: transparent;
 }
+
+.link-label {
+        color: #4d5ae5;
+}
 /* Koniec klas modal */
 
 
