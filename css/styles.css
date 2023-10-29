@@ -701,8 +701,12 @@ padding-bottom: 120px;
         color: #8e8f99;
 }
       
-      
-      
+.span-div-five {
+        width: 16px;
+        height: 16px;
+        border: 1px solid rgba(46, 47, 66, 0.4);
+        border-radius: 2px;
+}
 /* Koniec klas modal */
 
 
