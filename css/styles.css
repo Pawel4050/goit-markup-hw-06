@@ -661,10 +661,10 @@ padding-bottom: 120px;
         transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.svg-modal-two:focus,
-.svg-modal-two:active {
+.input-one-modal:focus + .another-modal-div-two .svg-modal-two {
         fill: #4D5AE5;
-}
+      }
+      
       
       
       
