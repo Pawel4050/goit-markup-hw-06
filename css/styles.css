@@ -704,6 +704,8 @@ padding-bottom: 120px;
         letter-spacing: 0.04em;
         color: #8e8f99;
 }
+
+
       
 .span-div-five {
         width: 16px;
@@ -717,6 +719,12 @@ padding-bottom: 120px;
         fill: transparent;
 }
 
+.modal-check:checked + .label-div-five span {
+        background-color: #404bbf;
+        fill: #f4f4fd;
+        border: none;
+      }
+      
 .link-label {
         color: #4d5ae5;
 }
