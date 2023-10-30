@@ -717,6 +717,7 @@ padding-bottom: 120px;
         align-items: center;
         justify-content: center;
         fill: transparent;
+        margin-right: 4px;
 }
 
 .modal-check:checked + .label-div-five span {
